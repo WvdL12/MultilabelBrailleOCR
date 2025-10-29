@@ -1,0 +1,31 @@
+bayes-optim
+tqdm
+colorama
+dash
+ipython
+json5
+jupyter
+jupyterhub
+jupyterlab
+# keras
+# Keras-Preprocessing
+matplotlib
+numpy<2.2 #~=1.24.4
+sympy~=1.14
+opencv-python
+pandas #~=1.4.0
+pyarrow
+Pillow
+plotly
+scikit-image
+scikit-learn
+scipy
+scikit_posthocs
+seaborn>=0.13.0
+whittaker-eilers
+# tensorboard
+# tensorflow~=2.11.1
+torch #==2.0.1
+torchvision #==0.15.2
+torchaudio #==2.0.2
+torchsummary
