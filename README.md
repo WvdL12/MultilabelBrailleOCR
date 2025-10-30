@@ -4,13 +4,31 @@ NOTICE: This work relates to an in-progress Masters degree at Stellenbosch Unive
 As such, no code, data or models are currently contained in this repository.
 The corresponding Masters thesis is set to be submitted by December 2025, and following evaluation, the relevant code, data and models will be published to this repository by February 2026.
 
-## Related publications
+## Related publications and citations
 
 The following publications or online resources relate to the research and work done on this project.
 
 * The processed Braille character datasets, metadata, and performance results are published as a [dataset on Zenodo](https://doi.org/10.5281/zenodo.17453802).
 * Parts of the results and analyses were accepted for publishing on by the [Journal of Universal Computer Science](https://lib.jucs.org/) (J.UCS).
 * The full results and analysis will be submitted as a BSc Computer Science Masters thesis at [Stellenbosch University](https://www.su.ac.za/en) (SU).
+
+You can cite this repository directly as:
+
+```text
+van der Linden, W. J., Grobler, T. L., & van Zijl, L. Multilabel optical character recognition of Braille text at SU (Version 1.0.0) [Computer software]. https://github.com/WvdL12/MultilabelBrailleOCR
+```
+
+or you can use the following Bibtex details:
+
+```text
+@software{van_der_Linden_Multilabel_optical_character,
+author = {van der Linden, Wicus J and Grobler, Trienko L and van Zijl, Lynette},
+license = {CC-BY-4.0},
+title = {{Multilabel optical character recognition of Braille text at SU}},
+url = {https://github.com/WvdL12/MultilabelBrailleOCR},
+version = {1.0.0}
+}
+```
 
 ## Datasets used
 
