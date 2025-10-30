@@ -1,5 +1,7 @@
 # Zenodo MultilabelBrailleOCR dataset publication
 
+This readme references the supplementary dataset, published on Zenodo: https://doi.org/10.5281/zenodo.17453802
+
 This publication contains the processed Braille character image data as well as model evaluation results used in A Robust Dot-focused Classification Approach to Convolutional Braille Recognition, approved for publishing by the Journal of Universal Computer Science (J.UCS). The study was conducted as part of a BSc Computer Science masters thesis on Optical character recognition of Braille text, at Stellenbosch University (SU).
 The data used was sourced from two publicly available data repositories:
 
