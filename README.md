@@ -23,7 +23,7 @@ or you can use the following Bibtex details:
 ```text
 @software{van_der_Linden_Multilabel_optical_character,
 author = {van der Linden, Wicus J and Grobler, Trienko L and van Zijl, Lynette},
-license = {CC-BY-4.0},
+license = {MIT},
 title = {{Multilabel optical character recognition of Braille text at SU}},
 url = {https://github.com/WvdL12/MultilabelBrailleOCR},
 version = {1.0.0}
