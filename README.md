@@ -63,4 +63,4 @@ This includes the model utility libaries, performance metric formulae, data proc
 
 ## Licensing
 
-This source code and assets in this repository is licensed under the MIT License.
+This source code and assets in this repository are licensed under the MIT License.
