@@ -60,3 +60,7 @@ Experimental augmentations include Brightness, Noise, Rotation and Blur experime
 
 Key extracts of the source code used in development of these models, as well as performance analysis and visualisation, is included in the `Source code` directory.  
 This includes the model utility libaries, performance metric formulae, data processing scripts, model training and performance evaluation scripts necessary to replicate the research, or apply to different subjects or applications.
+
+## Licensing
+
+This source code and assets in this repository is licensed under the MIT License.
