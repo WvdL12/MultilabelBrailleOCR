@@ -4,6 +4,14 @@ NOTICE: This work relates to an in-progress Masters degree at Stellenbosch Unive
 As such, no code, data or models are currently contained in this repository.
 The corresponding Masters thesis is set to be submitted by December 2025, and following evaluation, the relevant code, data and models will be published to this repository by February 2026.
 
+## Related publications
+
+The following publications or online resources relate to the research and work done on this project.
+
+* The processed Braille character datasets, metadata, and performance results are published as a [dataset on Zenodo](https://doi.org/10.5281/zenodo.17453802).
+* Parts of the results and analyses were accepted for publishing on by the [Journal of Universal Computer Science](https://lib.jucs.org/) (J.UCS).
+* The full results and analysis will be submitted as a BSc Computer Science Masters thesis at [Stellenbosch University](https://www.su.ac.za/en) (SU).
+
 ## Datasets used
 
 The below public datasets were used to train and evaluate our models  
@@ -13,7 +21,7 @@ The below public datasets were used to train and evaluate our models
 
 These datasets contain both Onesided and Twosided Braille documents and characters, with labels.  
 The data labeling has been standardised from the different datasets. To account for generality, the label system used describes the dots present in a given Braille character, rather than directly translating the character.  
-Processed datasets and records of train-test splits are published on Zenodo: `10.5281/zenodo.17453802`.  
+Processed datasets and records of train-test splits are published on Zenodo, as linked above.  
 
 ## Models
 
@@ -24,7 +32,7 @@ The final model configurations, under different training sets and modelling appr
 ## Performance results
 
 The `Model performance Results` directory includes performance results and model predictions used in masters research at Stellenbosch University, and included in an article accepted for publishing under the Journal of Universal Computer Science.
-The same results are published on Zenodo: `10.5281/zenodo.17453802`.  
+The same results are published on Zenodo, as linked above.  
 
 Models were trained under different data resampling scenarios, and with different classification approaches -- namely, multiclass and multilabel classification.
 The predictions and performances on test sets include in-distribution test results on the Angelina dataset, which was used in training, as well as out-of-distribution (ood) test results on the DSBI dataset.

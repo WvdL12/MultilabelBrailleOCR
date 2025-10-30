@@ -1,0 +1,50 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Multilabel optical character recognition of Braille text
+  at SU
+message: >-
+  The data, models and source code is supplementary to an
+  article published under JUCS, and a Masters thesis
+  completed at Stellenbosch University.
+type: software
+authors:
+  - given-names: Wicus J
+    family-names: van der Linden
+    email: 23263261@sun.ac.za
+    affiliation: Stellenbosch University
+    orcid: 'https://orcid.org/0009-0007-6203-0132'
+  - given-names: Trienko L
+    family-names: Grobler
+    email: tlgrobler@sun.ac.za
+    affiliation: Stellenbosch University
+    orcid: 'https://orcid.org/0000-0001-5274-0105'
+  - given-names: Lynette
+    family-names: van Zijl
+    email: lvzijl@sun.ac.za
+    affiliation: Stellenbosch University
+    orcid: 'https://orcid.org/0000-0001-5735-0448'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.17453802
+    description: DOI of related dataset publication on Zenodo
+repository-code: 'https://github.com/WvdL12/MultilabelBrailleOCR'
+url: >-
+  https://www.linkedin.com/in/wicus-van-der-linden-a4b2301b1/
+abstract: >-
+  Collection of models, hyperparameter tuning, and model
+  performance results for multilabel optical Braille
+  recognition through convolutional neural networks,
+  researched as part of Masters degree at Stellenbosch
+  University.
+keywords:
+  - Braille
+  - Optical character recognition
+  - Optical Braille recognition
+  - CNN
+  - Deep learning
+  - Computer vision
+license: CC-BY-4.0
+version: 1.0.0
