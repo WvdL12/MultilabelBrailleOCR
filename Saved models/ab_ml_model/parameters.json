@@ -1,0 +1,1 @@
+{"in_size": [40, 30, 3], "filts": 34, "kerns": 5, "pad": 1, "out_size": 6, "activ": "leaky_relu", "dense_sz": 98, "beta_2": 0.9999, "beta_1": 0.85, "l2": 0.0005, "lr": 0.0006635820295677741, "grey_scaled": 0, "square_in": 0}
