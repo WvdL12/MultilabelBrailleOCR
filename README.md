@@ -6,32 +6,6 @@ Parts of the work was further approved for publishing as a journal article, titl
 
 This repository contains code, data, analyses and models meant to supplement the thesis and corresponding publications.
 
-## Related publications and citations
-
-The following publications or online resources relate to the research and work done on this project.
-
-* The processed Braille character datasets, metadata, and performance results are published as a [dataset on Zenodo](https://doi.org/10.5281/zenodo.17453802).
-* Parts of the results and analyses were compiled into a journal article, accepted for publishing on by the [Journal of Universal Computer Science](https://lib.jucs.org/) (J.UCS).
-* The full results and analysis was submitted as a BSc Computer Science Masters thesis at [Stellenbosch University](https://www.su.ac.za/en) (SU).
-
-You can cite this repository directly as:
-
-```text
-van der Linden, W. J., Grobler, T. L., & van Zijl, L. Multilabel optical character recognition of Braille text at SU (Version 1.0.0) [Computer software]. https://github.com/WvdL12/MultilabelBrailleOCR
-```
-
-or you can use the following citation details (in BibTex format):
-
-```text
-@software{van_der_Linden_Multilabel_optical_character,
-author = {van der Linden, Wicus J and Grobler, Trienko L and van Zijl, Lynette},
-license = {MIT},
-title = {{Multilabel optical character recognition of Braille text at SU}},
-url = {https://github.com/WvdL12/MultilabelBrailleOCR},
-version = {1.0.0}
-}
-```
-
 ## Datasets used
 
 The below public datasets were used to train and evaluate our models  
@@ -67,6 +41,78 @@ Experimental augmentations include Brightness, Noise, Rotation and Blur experime
 
 Key extracts of the source code used in development of these models, as well as performance analysis and visualisation, is included in the `Source code` directory.  
 This includes the model utility libaries, performance metric formulae, data processing scripts, model training and performance evaluation scripts necessary to replicate the research, or apply to different subjects or applications.
+
+## Related publications and citations
+
+The following publications or online resources relate to the research and work done on this project.
+
+* The processed Braille character datasets, metadata, and performance results are published as a [dataset on Zenodo](https://doi.org/10.5281/zenodo.17453802).
+* Parts of the results and analyses were compiled into a journal article, accepted for publishing on by the [Journal of Universal Computer Science](https://lib.jucs.org/) (J.UCS).
+* The full results and analysis was submitted as a BSc Computer Science Masters thesis at [Stellenbosch University](https://www.su.ac.za/en) (SU).
+
+### Repository
+
+You can cite this repository directly as:
+
+```text
+van der Linden, W. J., Grobler, T. L., & van Zijl, L. Multilabel optical character recognition of Braille text at SU (Version 1.0.0) [Computer software]. https://github.com/WvdL12/MultilabelBrailleOCR
+```
+
+or you can use the following citation details (in BibTex format):
+
+```text
+@software{van_der_Linden_Multilabel_optical_character,
+author = {van der Linden, Wicus J and Grobler, Trienko L and van Zijl, Lynette},
+license = {MIT},
+title = {{Multilabel optical character recognition of Braille text at SU}},
+url = {https://github.com/WvdL12/MultilabelBrailleOCR},
+version = {1.0.0}
+}
+```
+
+### Article
+
+The (tentative) full citation for the corresponding journal article is
+
+```text
+van der Linden, W.J., Grobler, T.L. and van Zijl, L. (2026). A robust dot-focused classification approach to convolutional Braille recognition. Journal of Universal Computer Science, vol. 32, no. 4.
+```
+
+with BibTex formatted details
+
+```text
+@article{vanderLinden2026,
+  author = {van der Linden, Wicus J and Grobler, Trienko L and van Zijl, Lynette},
+  title = {A Robust Dot-focused Classification Approach to Convolutional {Braille} Recognition},
+  journal = {Journal of Universal Computer Science},
+  year = {2026},
+  volume = {32},
+  number = {4},
+  submitted = {10 June 2025},
+  accepted = {24 October 2025}
+}
+```
+
+### Thesis
+
+The (tentative) full citation for the corresponding Masters thesis is
+
+```text
+van der Linden, W.J., Grobler, T.L. and van Zijl, L. "Generalised, multilingual, optical Braille recognition models". Stellenbosch, South Africa: Stellenbosch University, 2025.
+```
+
+with BibTex formatted details
+
+```text
+@mastersthesis{vanderLinden2025,
+  title = {Generalised, multilingual, optical Braille recognition models},
+  author = {van der Linden, Wicus J and Grobler, Trienko L and van Zijl, Lynette},
+  year = {2025},
+  type = {Master's Thesis},
+  institution = {Stellenbosch University},
+  location = {Stellenbosch, South Africa},
+}
+```
 
 ## Licensing
 
